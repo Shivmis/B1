@@ -486,7 +486,7 @@ async def start_message_private(client, message):
                     ),
                     InlineKeyboardButton(
                         text="˹ ʀᴇᴘᴏ ˼",
-                        url="https://github.com/BABY-MUSIC/SANATANI_MxPLAYER",  # Callback data for Owner button
+                        url="https://files.catbox.moe/224yst.mp4",  # Callback data for Owner button
                     ),
                 ]
             ]
